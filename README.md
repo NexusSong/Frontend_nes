@@ -22,19 +22,24 @@ Construir um site com pelo menos 3 páginas utilizando HTML e CSS (Tailwind), re
 ```
 git clone https://github.com/NexusSong/Frontend_nes.git
 ```
-2. Verifique se a extensão live Server está instalada, caso esteja, clique na opção que se localiza no canto inferior esquerdo, como no exemplo abaixo.
+2. Verifique se a extensão live Server está instalada, caso esteja, clique na opção destacada que se localiza no canto inferior esquerdo, como no exemplo abaixo.
+![exemplo1](exemplos/ex1.png)
 
+3. Com o botão direito, clique no arquivo que deseja abrir o site e clique na opção 'Open with Live Server'.
 ---
 
 ## 📂 **Estrutura do Projeto**
-```plaintext
+```
 Frontend_nes/
-├── index.html         # Página inicial
-├── about.html         # Página sobre
-├── contact.html       # Página de contato
+├── exemplos/          # Diretório com exemplos práticos
+│   ├── ex1.png        # Imagem de exemplo utilizada no projeto
+├── NexusTeam/         # Diretório para arquivos do time Nexus
+│   ├── index.html       # Página inicial do site
+│   ├── about.html       # Página: informações gerais
+│   ├── contact.html     # Página: contato
+├── LICENSE            # Arquivo com a licença do projeto
 ├── README.md          # Documentação do projeto
 ```
-
 ## 🌟 Requisitos Atendidos
 
 3 páginas diferentes: ✅
