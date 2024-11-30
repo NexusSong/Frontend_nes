@@ -18,19 +18,11 @@ Construir um site com pelo menos 3 páginas utilizando HTML e CSS (Tailwind), re
 
 ## 🚀 **Como Rodar o Projeto**
 ### Localmente:
-1. Certifique-se de ter os arquivos do projeto em sua máquina.
-2. Abra o arquivo `index.html` em seu navegador, ou:
-   - No terminal, rode o comando:
-     ```bash
-     python3 -m http.server
-     ```
-   - Abra o endereço no navegador:
-     ```
-     http://localhost:8000
-     ```
-
-### Online (GitHub Pages):
-Se publicado no GitHub Pages, você pode acessar diretamente o link fornecido.
+1. Adicione o repositório no vscode em sua máquina através do comando 
+```
+git clone https://github.com/NexusSong/Frontend_nes.git
+```
+2. Verifique se a extensão live Server está instalada, caso esteja, clique na opção que se localiza no canto inferior esquerdo, como no exemplo abaixo.
 
 ---
 
